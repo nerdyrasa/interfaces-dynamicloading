@@ -1,7 +1,8 @@
-Dynamic loading
+DYNAMIC LOADING
 
-Get repository type from the configuration file.
+Get the repository type from the configuration file to do runtime binding. 
 
-No assembly references to concrete repositories.
+There are no assembly references to concrete repository types.
 
-Post build step to include assemblies for concrete repositories.
+There is a post build step to include assemblies for concrete repositories.
+
